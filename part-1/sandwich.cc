@@ -19,7 +19,7 @@ int main(int argc, char* argv[]) {
   string bread = arguments[2];
   string condiment = arguments[3];
 
-  cout << "Your order:\nA " << protein << "sandwich on " << bread << " with "
+  cout << "Your order:\nA " << protein << " sandwich on " << bread << " with "
        << condiment << ".\n";
 
   return 0;
